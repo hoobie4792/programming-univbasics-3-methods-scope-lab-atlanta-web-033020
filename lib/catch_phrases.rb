@@ -16,6 +16,7 @@ def link
   return phrase
 end
 
-def any_phrase
-  
+def any_phrase(phrase)
+  puts phrase
+  return phrase
 end
